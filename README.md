@@ -68,7 +68,8 @@ I aim to build a strong career as a Software Developer by working on challenging
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-![Developer Quote](quote.png)
+![Developer Quote](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2d5e8cf8-8764-4697-897c-ef41e4027b6e" />
+)
 
 
 
