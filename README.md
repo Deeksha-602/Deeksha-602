@@ -16,25 +16,6 @@ I aim to build a strong career as a Software Developer by working on challenging
 - Development using C++ and Python  
 - Performance optimization and debugging for imaging applications  
 
-### 💻 Technical Skills
-
-**Programming Languages**
-- Java, C++, C#, Python  
-
-**Web Technologies**
-- HTML, CSS, JavaScript  
-- Node.js, Express.js  
-- React.js, Angular  
-
-**Cloud Technologies**
-- AWS Cloud  
-
-**Databases**
-- MongoDB, SQL  
-
-**Frameworks & Tools**
-- .NET  
-- Tailwind CSS, Bootstrap  
 
 ### 📌 Areas of Interest
  
@@ -68,6 +49,7 @@ I aim to build a strong career as a Software Developer by working on challenging
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
+![.](https://graciousquotes.com/wp-content/uploads/2020/09/No-I-dont-ever-give-up.-Id-have-to-be-dead-or-completely-incapacitated..jpg)
 
 
 
