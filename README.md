@@ -49,7 +49,28 @@ To grow as a software developer by working on meaningful problems and delivering
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-<img src="https://quotefancy.com/media/wallpaper/3840x2160/6381661-Elon-Musk-Quote-You-should-take-the-approach-that-you-re-wrong.jpg" alt="Alt Text" width="150" height="150">
+<div style="
+  width: 700px;
+  padding: 22px 26px;
+  margin: 20px 0;
+  background: linear-gradient(135deg, #000000, #1a1a1a);
+  border-radius: 10px;
+  color: #f5f5f5;
+  font-style: italic;
+  font-size: 16px;
+  line-height: 1.6;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.4);
+">
+  “No, I don't ever give up. I'd have to be dead or completely incapacitated.”
+  <div style="
+    margin-top: 12px;
+    text-align: right;
+    font-weight: 600;
+    color: #f5b041;
+  ">
+    — Elon Musk
+  </div>
+</div>
 
 
 
