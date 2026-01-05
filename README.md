@@ -7,13 +7,13 @@ Hi 👋, I’m Deeksha Gangwar
 
 ### 🎯 Career Objective
 
-I aim to build a strong career as a Software Developer by working on challenging and impactful projects. I am particularly interested in roles where I can apply my problem-solving skills and programming expertise to develop efficient, reliable, and scalable software solutions. Currently, I am focusing on the Camera and Imaging domain, where I am enhancing my skills in C++ and Python for performance-critical and real-world applications.
+To grow as a software developer by working on meaningful problems and delivering reliable, high-quality solutions.
 
 ### 🔭 Currently Working On
 
 - Camera and imaging domain projects  
 - Image processing and camera pipeline concepts  
-- Development using C++ and Python  
+- Development using C++, Python and AI  
 - Performance optimization and debugging for imaging applications  
 
 
@@ -49,7 +49,8 @@ I aim to build a strong career as a Software Developer by working on challenging
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-![.](https://graciousquotes.com/wp-content/uploads/2020/09/No-I-dont-ever-give-up.-Id-have-to-be-dead-or-completely-incapacitated..jpg)
+<img src="https://quotefancy.com/media/wallpaper/3840x2160/6381661-Elon-Musk-Quote-You-should-take-the-approach-that-you-re-wrong.jpg" alt="Alt Text" width="150" height="150">
+
 
 
 
