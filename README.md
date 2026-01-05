@@ -49,28 +49,32 @@ To grow as a software developer by working on meaningful problems and delivering
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
+
 <div style="
   width: 700px;
-  padding: 22px 26px;
+  padding: 26px 30px;
   margin: 20px 0;
-  background: linear-gradient(135deg, #000000, #1a1a1a);
-  border-radius: 10px;
-  color: #f5f5f5;
-  font-style: italic;
-  font-size: 16px;
-  line-height: 1.6;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.4);
+  background: linear-gradient(135deg, #0f172a, #020617);
+  border-radius: 12px;
+  color: #f8fafc;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.7;
+  box-shadow: 0 10px 28px rgba(0,0,0,0.45);
 ">
   “No, I don't ever give up. I'd have to be dead or completely incapacitated.”
   <div style="
-    margin-top: 12px;
+    margin-top: 14px;
     text-align: right;
     font-weight: 600;
-    color: #f5b041;
+    font-size: 14px;
+    color: #eab308;
+    letter-spacing: 0.5px;
   ">
     — Elon Musk
   </div>
 </div>
+
 
 
 
