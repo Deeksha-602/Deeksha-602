@@ -50,35 +50,21 @@ To grow as a software developer by working on meaningful problems and delivering
 
 
 
-<div style="
-  width: 700px;
-  padding: 26px 30px;
-  margin: 20px 0;
-  background: linear-gradient(135deg, #0f172a, #020617);
-  border-radius: 12px;
-  color: #f8fafc;
-  font-size: 17px;
-  font-weight: 700;
-  line-height: 1.7;
-  box-shadow: 0 10px 28px rgba(0,0,0,0.45);
-">
-  “No, I don't ever give up. I'd have to be dead or completely incapacitated.”
-  <div style="
-    margin-top: 14px;
-    text-align: right;
-    font-weight: 600;
-    font-size: 14px;
-    color: #eab308;
-    letter-spacing: 0.5px;
-  ">
+<blockquote>
+  <span style="color:#facc15; font-weight:700;">
+    No, I don't ever give up. I'd have to be dead or completely incapacitated.
+  </span>
+  <br><br>
+  <span style="color:#eab308; font-style:italic;">
     — Elon Musk
-  </div>
-</div>
+  </span>
+</blockquote>
 
 
 
 
 
+    
 
 <!--
 **Deeksha-602/Deeksha-602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
