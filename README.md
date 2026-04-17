@@ -53,6 +53,21 @@ To grow as a software developer by working on meaningful problems and delivering
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+#### 🤖 AI / GenAI Tech Stack
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-0A192F?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-8E44AD?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Database-1E90FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF5733?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFC300?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-2ECC71?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-FF9900?style=for-the-badge)
+
 
 
 
