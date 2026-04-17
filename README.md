@@ -11,15 +11,20 @@ To grow as a software developer by working on meaningful problems and delivering
 
 ### 🔭 Currently Working On
 
-- Camera and imaging domain projects  
-- Image processing and camera pipeline concepts  
-- Development using C++, Python and AI  
-- Performance optimization and debugging for imaging applications  
-
-
-### 📌 Areas of Interest
+- Generative AI projects using LLMs
+- Building applications with OpenAI APIs
+- Retrieval-Augmented Generation (RAG) systems
+- Prompt engineering and intelligent application development  
+- Development using Python and AI  
  
-- Image Processing and Computer Vision Fundamentals   
+### 📌 Areas of Interest
+
+- Data Structures and Algorithms (DSA)
+- Software Development
+- Generative AI and Large Language Models (LLMs)
+- Machine Learning and Artificial Intelligence
+- Natural Language Processing (NLP)
+- Problem Solving and System Design
 - Debugging and Error Resolution  
 
 ### 🌐 Socials
