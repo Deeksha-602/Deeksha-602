@@ -55,15 +55,11 @@ To grow as a software developer by working on meaningful problems and delivering
 
 
 
-<blockquote>
-  <span style="color:#facc15; font-weight:700;">
-    No, I don't ever give up. I'd have to be dead or completely incapacitated.
-  </span>
-  <br><br>
-  <span style="color:#eab308; font-style:italic;">
-    — Elon Musk
-  </span>
-</blockquote>
+## 💡 Quote
+
+<p align="center">
+  <img src="img.png" width="700"/>
+</p>
 
 
 
