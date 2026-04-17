@@ -58,7 +58,7 @@ To grow as a software developer by working on meaningful problems and delivering
 ## 💡 Quote
 
 <p align="center">
-  <img src="img1.jpg" width="700"/>
+  <img src="img1.jpg" width="350"/>
 </p>
 
 
